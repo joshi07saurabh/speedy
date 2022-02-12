@@ -4,7 +4,7 @@ import Landing from '../Landing/Landing';
 import Footer from '../Footer/Footer';
 import './App.css'
 import ChallengeSection from '../ChallengeSection/ChallengeSection';
-import { SAMPLE_PARAGRAPHS } from "../../data/sample.js";
+import { SAMPLE_PARAGRAPHS } from "../../data/sample";
 const time=60
 const url='http://metaphorpsum.com/paragraphs/1/9'
 const defaultState={ 
