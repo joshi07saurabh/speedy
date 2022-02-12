@@ -1,0 +1,39 @@
+.trysection-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.trysection-header{
+    text-align: center;
+    font-size: xx-large;
+    font-family: cursive;
+    font-weight: bold;
+}
+.end-class{
+    min-width: 64px;
+    padding: 4px 15px;
+    margin: 12px;
+    border-radius: 5px;
+    border: none;
+    position: relative;
+    line-height: 36px;
+    transition: backgroun-color 0.2s;
+    cursor: pointer;
+    color: white;
+}
+.retry{
+    background-color: black;
+}
+.retry:hover,
+.retry:focus{
+    background-color: rgb(114, 110, 110);
+}
+.share{
+    background-color: blue;
+}
+.share:hover,
+.share:focus{
+    background-color: rgb(123, 123, 196);
+}

@@ -1,0 +1,15 @@
+.footer-container{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    z-index: 99px;
+    justify-content: center;
+}
+.footer-link{
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+.challenge-container{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.challenge-header{
+    text-align: center;
+    font-family: cursive;
+    font-size: 64px;
+    font-weight: bold;
+}
